@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darkevz
+- 👋 Hi, I’m @Kevin
 - 👀 I’m interested in automation and technology
 - 🌱 I’m currently learning selenium
 - 💞️ I’m looking to collaborate on industrial automation and rpa
